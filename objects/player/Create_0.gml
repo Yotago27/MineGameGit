@@ -20,7 +20,7 @@ oxygenRegen = .05
 
 oxygenTakenUndergroundRate = 1/6
 
-money = 100
+money = 10000000
 
 hpMax = 50
 hp = hpMax
